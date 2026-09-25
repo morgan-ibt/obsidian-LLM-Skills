@@ -10,6 +10,7 @@ L'esprit : un flux court et cliquable, l'idée/note brute reste intacte, l'IA pr
 |-------|------|
 | [`idee/`](idee/) | Capter une idée en ~2 min et créer une fiche rangée dans le vault. |
 | [`culture/`](culture/) | Capter un point d'une source (vidéo, podcast, livre…) par la méthode Feynman. |
+| [`update-mise-en-situation/`](update-mise-en-situation/) | Passer le relais d'une longue conversation d'exercice (workflow n8n) vers un fichier propre à réinjecter. |
 
 *(D'autres à venir — ex. révision espacée du cahier de culture.)*
 

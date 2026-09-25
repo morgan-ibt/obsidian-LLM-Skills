@@ -9,8 +9,9 @@ L'esprit : un flux court et cliquable, l'idée/note brute reste intacte, l'IA pr
 | Skill | Rôle |
 |-------|------|
 | [`idee/`](idee/) | Capter une idée en ~2 min et créer une fiche rangée dans le vault. |
+| [`culture/`](culture/) | Capter un point d'une source (vidéo, podcast, livre…) par la méthode Feynman. |
 
-*(D'autres à venir — ex. capture de cours / infos à retenir.)*
+*(D'autres à venir — ex. révision espacée du cahier de culture.)*
 
 ## Installation
 
